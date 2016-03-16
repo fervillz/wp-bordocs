@@ -1,0 +1,6 @@
+{
+  "name": "bootstrap-libsass-template",
+  "dependencies": {
+    "bootstrap-sass": "bootstrap-sass-official#^3.3.6"
+  }
+}
