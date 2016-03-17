@@ -36,3 +36,11 @@ started-theme includes support for Infinite Scroll in Jetpack.
 
 * Based on Underscores http://underscores.me/, (C) 2012-2016 Automattic, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
 * normalize.css http://necolas.github.io/normalize.css/, (C) 2012-2016 Nicolas Gallagher and Jonathan Neal, [MIT](http://opensource.org/licenses/MIT)
+
+
+* https://github.com/fervillz/sneakpeek
+* https://github.com/VPenkov/okayNav
+* https://github.com/matthieua/WOW
+* https://github.com/markdalgleish/stellar.js
+* https://github.com/daneden/animate.css
+* https://github.com/VPenkov/okayNav

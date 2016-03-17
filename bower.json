@@ -1,6 +1,27 @@
 {
   "name": "bootstrap-libsass-template",
   "dependencies": {
-    "bootstrap-sass": "bootstrap-sass-official#^3.3.6"
-  }
+    "bootstrap-sass": "bootstrap-sass-official#^3.3.6",
+    "okaynav": "^2.0.4",
+    "animate.css": "^3.5.1",
+    "jquery.stellar": "^0.6.2",
+    "owl.carousel": "^2.0.0-beta.3",
+    "sneakpeek": "^0.0.10",
+    "wow": "^1.1.2"
+  },
+  "homepage": "https://github.com/fervillz/wp-bordocs",
+  "authors": [
+    "fernando villamor jr <fervillz@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
